@@ -1,0 +1,12 @@
+body {
+    width: 250px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#hexValue {
+    margin-top: 10px;
+    font-size: 20px;
+}
